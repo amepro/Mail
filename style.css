@@ -1,0 +1,79 @@
+.cd{
+    justify-content: center;
+}
+.back{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 250px;
+}
+
+
+.logo{
+    margin-top: -30px;
+    background-color: #3ec7b5;
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+   
+}
+
+.intro{
+    color:white;
+    text-align: center;
+    float: left;
+    margin-top: 50px;
+    /* margin-left: auto; */
+}
+
+
+.font {
+    font-size: 50px;
+}
+
+.Lorem{
+    margin-top: 50px;
+}
+.tetete{
+    padding-top: 40px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.call_to_action{
+  background-color: #3ec7b5;
+  color: #fff;
+  padding: 10px 15px 10px 15px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 10px;
+  border: 2px solid #3ec7b5;
+  transition: .5s ease-in;
+}
+.call{
+    margin: 0 auto;
+}
+.call_to_action:hover{
+    color: #3ec7b5;
+    background-color: #fff;
+    border: 2px solid #3ec7b5;
+    text-decoration: none;
+    transition: .5s ease-in;
+}
+.logologo{
+    background-color: #efefef;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+.titre{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
